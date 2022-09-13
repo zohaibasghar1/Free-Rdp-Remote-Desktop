@@ -5,6 +5,7 @@ Here this tutorial using Azure Cloud Shell to create Virtual Machine on Microsof
 sunglasses It's One Hour RDP Completely Free.
 
 Demo Lab with Windows 11 VM: https://lms.godeploy.it/DemoLabs/Register
+https://fadixd.com/benefits-of-using-an-ai-tool-for-writing-in-2022/
 
 NEW VERSION RELEASE (Win2022/Win10/Win11):
 Open This : https://docs.microsoft.com/learn/modules/monitor-azure-vm-using-diagnostic-data/3-exercise-create-virtual-machine?activate-azure-sandbox=true
